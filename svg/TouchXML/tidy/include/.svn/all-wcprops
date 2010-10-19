@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/include
+END
+tidy.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/include/tidy.h
+END
+buffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/include/buffio.h
+END
+tidyenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/include/tidyenum.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/include/platform.h
+END

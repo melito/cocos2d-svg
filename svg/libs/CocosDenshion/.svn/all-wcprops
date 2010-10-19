@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion
+END
+CocosDenshion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/CocosDenshion.h
+END
+SimpleAudioEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/SimpleAudioEngine.h
+END
+CDOpenALSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/CDOpenALSupport.h
+END
+CocosDenshion.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/CocosDenshion.m
+END
+CDAudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/CDAudioManager.h
+END
+SimpleAudioEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/SimpleAudioEngine.m
+END
+CDAudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/svg/libs/CocosDenshion/CDAudioManager.m
+END

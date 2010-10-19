@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes
+END
+JointDeclaration.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/JointDeclaration.h
+END
+BodyInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/BodyInfo.h
+END
+FreeCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/FreeCamera.h
+END
+FollowCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/FollowCamera.h
+END
+AbstractCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/AbstractCamera.h
+END
+FreeCamera.mm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/FreeCamera.mm
+END
+FollowCamera.mm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/FollowCamera.mm
+END
+BodyInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/BodyInfo.m
+END
+AbstractCamera.mm
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/AbstractCamera.mm
+END
+JointDeclaration.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/JointDeclaration.m
+END
+SpriteManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/SpriteManager.h
+END
+SpriteManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/SpriteManager.m
+END
+svgLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/svgLoader.h
+END
+svgLoader.mm
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/svg/Classes/My%20Classes/svgLoader.mm
+END

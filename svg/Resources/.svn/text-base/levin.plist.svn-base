@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>textureName</key>
+	<string>levin.png</string>
+	<key>texture</key>
+	<dict>
+		<key>width</key>
+		<integer>256</integer>
+		<key>height</key>
+		<integer>256</integer>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>wheel</key>
+		<dict>
+			<key>x</key>
+			<integer>110</integer>
+			<key>y</key>
+			<integer>5</integer>
+			<key>width</key>
+			<integer>15</integer>
+			<key>height</key>
+			<integer>14</integer>
+			<key>offsetX</key>
+			<real>0</real>
+			<key>offsetY</key>
+			<real>0</real>
+		</dict>
+		<key>levin</key>
+		<dict>
+			<key>x</key>
+			<integer>5</integer>
+			<key>y</key>
+			<integer>5</integer>
+			<key>width</key>
+			<integer>100</integer>
+			<key>height</key>
+			<integer>28</integer>
+			<key>offsetX</key>
+			<real>0</real>
+			<key>offsetY</key>
+			<real>0</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

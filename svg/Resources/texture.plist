@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>textureName</key>
+	<string>texture.png</string>
+	<key>texture</key>
+	<dict>
+		<key>width</key>
+		<integer>512</integer>
+		<key>height</key>
+		<integer>512</integer>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>wheel.small</key>
+		<dict>
+			<key>x</key>
+			<integer>10</integer>
+			<key>y</key>
+			<integer>10</integer>
+			<key>width</key>
+			<integer>16</integer>
+			<key>height</key>
+			<integer>16</integer>
+			<key>offsetX</key>
+			<real>0</real>
+			<key>offsetY</key>
+			<real>0</real>
+		</dict>
+		<key>beaver.trash.small</key>
+		<dict>
+			<key>x</key>
+			<integer>36</integer>
+			<key>y</key>
+			<integer>10</integer>
+			<key>width</key>
+			<integer>30</integer>
+			<key>height</key>
+			<integer>45</integer>
+			<key>offsetX</key>
+			<real>0</real>
+			<key>offsetY</key>
+			<real>0</real>
+		</dict>
+	</dict>
+</dict>
+</plist>

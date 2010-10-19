@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML
+END
+CXMLElement_ElementTreeExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLElement_ElementTreeExtensions.m
+END
+CXMLNode_XPathExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLNode_XPathExtensions.h
+END
+CXMLNode_XPathExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLNode_XPathExtensions.m
+END
+CXMLDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLDocument.h
+END
+TouchXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/TouchXML.h
+END
+CXMLDocument.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLDocument.m
+END
+CXMLNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLNode.h
+END
+CXMLDocument_PrivateExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLDocument_PrivateExtensions.h
+END
+CXMLElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLElement.h
+END
+CXMLNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLNode.m
+END
+CXMLDocument_PrivateExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLDocument_PrivateExtensions.m
+END
+CXMLElement_CreationExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLElement_CreationExtensions.h
+END
+CXMLElement.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLElement.m
+END
+CXMLNode_PrivateExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLNode_PrivateExtensions.h
+END
+CXMLElement_ElementTreeExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLElement_ElementTreeExtensions.h
+END
+CXMLElement_CreationExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLElement_CreationExtensions.m
+END
+CXMLNode_PrivateExtensions.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/svg/TouchXML/TouchXML/CXMLNode_PrivateExtensions.m
+END

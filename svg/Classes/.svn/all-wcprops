@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/svg/Classes
+END
+HelloWorldScene.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/Classes/HelloWorldScene.h
+END
+GLES-Render.mm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/svg/Classes/GLES-Render.mm
+END
+svgParserAppDelegate.mm
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/Classes/svgParserAppDelegate.mm
+END
+HelloWorldScene.mm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/Classes/HelloWorldScene.mm
+END
+GLES-Render.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/svg/Classes/GLES-Render.h
+END
+svgParserAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/svg/Classes/svgParserAppDelegate.h
+END

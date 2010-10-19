@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel
+END
+FontLabelStringDrawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/FontLabelStringDrawing.h
+END
+FontLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/FontLabel.m
+END
+FontLabelStringDrawing.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/FontLabelStringDrawing.m
+END
+ZFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/ZFont.h
+END
+FontManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/FontManager.h
+END
+ZFont.m
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/ZFont.m
+END
+FontManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/FontManager.m
+END
+FontLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/libs/FontLabel/FontLabel.h
+END

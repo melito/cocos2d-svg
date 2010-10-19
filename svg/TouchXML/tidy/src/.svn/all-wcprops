@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src
+END
+mappedio.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/mappedio.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/parser.h
+END
+localize.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/localize.c
+END
+attrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/attrs.h
+END
+mappedio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/mappedio.h
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/config.c
+END
+forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/forward.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/config.h
+END
+tagask.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tagask.c
+END
+charsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/charsets.c
+END
+istack.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/istack.c
+END
+charsets.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/charsets.h
+END
+streamio.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/streamio.c
+END
+streamio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/streamio.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/message.h
+END
+win32tc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/win32tc.c
+END
+win32tc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/win32tc.h
+END
+tags.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tags.c
+END
+tidylib.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tidylib.c
+END
+access.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/access.c
+END
+tags.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tags.h
+END
+iconvtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/iconvtc.c
+END
+tidy-int.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tidy-int.h
+END
+access.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/access.h
+END
+fileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/fileio.c
+END
+attrask.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/attrask.c
+END
+attrget.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/attrget.c
+END
+iconvtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/iconvtc.h
+END
+buffio.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/buffio.c
+END
+tmbstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tmbstr.c
+END
+pprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/pprint.c
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/fileio.h
+END
+attrdict.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/attrdict.c
+END
+lexer.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/lexer.c
+END
+tmbstr.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/tmbstr.h
+END
+pprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/pprint.h
+END
+clean.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/clean.c
+END
+attrdict.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/attrdict.h
+END
+entities.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/entities.c
+END
+lexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/lexer.h
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/utf8.c
+END
+clean.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/clean.h
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/entities.h
+END
+alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/alloc.c
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/version.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/utf8.h
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/parser.c
+END
+attrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/svg/TouchXML/tidy/src/attrs.c
+END

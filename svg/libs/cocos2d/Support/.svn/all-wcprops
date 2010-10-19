@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support
+END
+Texture2D.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/Texture2D.m
+END
+TransformUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/TransformUtils.h
+END
+PVRTexture.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/PVRTexture.m
+END
+CGPointExtension.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/CGPointExtension.h
+END
+FileUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/FileUtils.h
+END
+TransformUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/TransformUtils.m
+END
+TGAlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/TGAlib.h
+END
+EAGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/EAGLView.h
+END
+ccHashSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/ccHashSet.h
+END
+CGPointExtension.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/CGPointExtension.m
+END
+FileUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/FileUtils.m
+END
+TGAlib.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/TGAlib.m
+END
+EAGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/EAGLView.m
+END
+ccHashSet.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/ccHashSet.m
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/base64.c
+END
+OpenGL_Internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/OpenGL_Internal.h
+END
+glu.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/glu.c
+END
+ZipUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/ZipUtils.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/base64.h
+END
+ccArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/ccArray.h
+END
+Texture2D.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/Texture2D.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/glu.h
+END
+PVRTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/PVRTexture.h
+END
+ZipUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/svg/libs/cocos2d/Support/ZipUtils.m
+END
